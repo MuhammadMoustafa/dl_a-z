@@ -1,0 +1,1 @@
+guide: https://www.superdatascience.com/the-ultimate-guide-to-recurrent-neural-networks-rnn/

@@ -1,0 +1,12 @@
+Papers for DNN
+
+https://adeshpande3.github.io/
+https://medium.com/x8-the-ai-community/9-deep-learning-papers-that-you-must-know-part-1-d3ac3d5eeb36
+https://list.ly/list/2gOD-the-9-deep-learning-papers-you-need-to-know-about
+
+
+
+
+Cross Entropy:
+
+https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/

@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/m7md/.cache/gnome-builder/install/dl_a-z/host
+app-id=
+postbuild=
+prebuild=
+default=true
